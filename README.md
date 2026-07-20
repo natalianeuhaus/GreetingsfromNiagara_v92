@@ -34,7 +34,7 @@ Two Mile Creek was shifted west to follow the mapped channel beside Two Mile Cre
 ## v0.83 display correction
 The NHAP tile service contains white pixels inside some raster tiles, rather than transparent gaps. This version applies a luminance-based transparency filter to white and near-white historical-map pixels, revealing the black map background underneath. At close zoom, the map still switches to the modern street basemap.
 
-- v0.83 aligns the Radiation guide button horizontally with the map layer/legend control.
+- v0.83 aligns the Radiation guide button horizontally with the map layer/legend control. 
 
 
 Version 0.60 starts at a fixed Niagara corridor view, enables the 1978–1979 aerial survey layer by default, and moves editable styling into style.css.
