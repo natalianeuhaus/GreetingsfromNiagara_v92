@@ -29,7 +29,7 @@
 #map, .leaflet-container, .leaflet-map-pane, .leaflet-tile-pane { background: var(--map-background, #000); }
 /* High-contrast black & white */
 .leaflet-tile-pane {
-    filter: grayscale(100%) contrast(115%);
+    filter: grayscale(100%) contrast(115%) Opacity (0.9);
 }
 
 
